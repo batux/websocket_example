@@ -1,2 +1,2 @@
-# Chat Application via Web Socket
-Web Socket based chat application
+# Basic Chat Application via Web Socket
+Web Socket based basic chat application
